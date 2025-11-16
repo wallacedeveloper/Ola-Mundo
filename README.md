@@ -1,4 +1,4 @@
-# Olá, Mundo2
+# Olá, Mundo!
 
 Primeiro Repositorio Curso Git e GitHub
 
