@@ -9,3 +9,5 @@ Esta linha eu adicionei diretamente no site. QUE IMPRESSIONANTE!
 **Fazendo teste em negrito**
 
 *Fazendo teste em italico* 
+
+Testando emoji na liguagem markdown :sunglasses: 
